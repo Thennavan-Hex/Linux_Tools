@@ -15,6 +15,42 @@
         "4": {
             "name": "update",
             "url": "https://raw.githubusercontent.com/Thennavan-Hex/installer_scripts/main/apt/update.sh"
+        },
+        "5": {
+            "name": "git",
+            "url": "https://raw.githubusercontent.com/Thennavan-Hex/installer_scripts/main/apt/git.sh"
+        },
+        "6": {
+            "name": "mongodb",
+            "url": "https://raw.githubusercontent.com/Thennavan-Hex/installer_scripts/main/apt/mongodb.sh"
+        },
+        "7": {
+            "name": "node",
+            "url": "https://raw.githubusercontent.com/Thennavan-Hex/installer_scripts/main/apt/node.sh"
+        },
+        "8": {
+            "name": "java",
+            "url": "https://raw.githubusercontent.com/Thennavan-Hex/installer_scripts/main/apt/java.sh"
+        },
+        "9": {
+            "name": "mysql",
+            "url": "https://raw.githubusercontent.com/Thennavan-Hex/installer_scripts/main/apt/mysql.sh"
+        },
+        "10": {
+            "name": "python3",
+            "url": "https://raw.githubusercontent.com/Thennavan-Hex/installer_scripts/main/apt/python3.sh"
+        },
+        "11": {
+            "name": "flutter",
+            "url": "https://raw.githubusercontent.com/Thennavan-Hex/installer_scripts/main/apt/flutter.sh"
+        },
+        "12": {
+            "name": "k8s",
+            "url": "https://raw.githubusercontent.com/Thennavan-Hex/installer_scripts/main/apt/k8s.sh"
+        },
+        "13": {
+            "name": "nginx",
+            "url": "https://raw.githubusercontent.com/Thennavan-Hex/installer_scripts/main/apt/nginx.sh"
         }
     },
     "dnf": {
@@ -33,6 +69,42 @@
         "4": {
             "name": "update",
             "url": "https://raw.githubusercontent.com/Thennavan-Hex/installer_scripts/main/dnf/update.sh"
+        },
+        "5": {
+            "name": "git",
+            "url": "https://raw.githubusercontent.com/Thennavan-Hex/installer_scripts/main/dnf/git.sh"
+        },
+        "6": {
+            "name": "mongodb",
+            "url": "https://raw.githubusercontent.com/Thennavan-Hex/installer_scripts/main/dnf/mongodb.sh"
+        },
+        "7": {
+            "name": "node",
+            "url": "https://raw.githubusercontent.com/Thennavan-Hex/installer_scripts/main/dnf/node.sh"
+        },
+        "8": {
+            "name": "java",
+            "url": "https://raw.githubusercontent.com/Thennavan-Hex/installer_scripts/main/dnf/java.sh"
+        },
+        "9": {
+            "name": "mysql",
+            "url": "https://raw.githubusercontent.com/Thennavan-Hex/installer_scripts/main/dnf/mysql.sh"
+        },
+        "10": {
+            "name": "python3",
+            "url": "https://raw.githubusercontent.com/Thennavan-Hex/installer_scripts/main/dnf/python3.sh"
+        },
+        "11": {
+            "name": "flutter",
+            "url": "https://raw.githubusercontent.com/Thennavan-Hex/installer_scripts/main/dnf/flutter.sh"
+        },
+        "12": {
+            "name": "k8s",
+            "url": "https://raw.githubusercontent.com/Thennavan-Hex/installer_scripts/main/dnf/k8s.sh"
+        },
+        "13": {
+            "name": "nginx",
+            "url": "https://raw.githubusercontent.com/Thennavan-Hex/installer_scripts/main/dnf/nginx.sh"
         }
     }
 }
