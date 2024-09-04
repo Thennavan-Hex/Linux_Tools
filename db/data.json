@@ -1,0 +1,38 @@
+{
+    "apt": {
+        "1": {
+            "name": "telegram",
+            "url": "https://raw.githubusercontent.com/Thennavan-Hex/installer_scripts/main/apt/telegram.sh"
+        },
+        "2": {
+            "name": "docker",
+            "url": "https://raw.githubusercontent.com/Thennavan-Hex/installer_scripts/main/apt/docker.sh"
+        },
+        "3": {
+            "name": "docker-compose",
+            "url": "https://raw.githubusercontent.com/Thennavan-Hex/installer_scripts/main/apt/docker_compose.sh"
+        },
+        "4": {
+            "name": "update",
+            "url": "https://raw.githubusercontent.com/Thennavan-Hex/installer_scripts/main/apt/update.sh"
+        }
+    },
+    "dnf": {
+        "1": {
+            "name": "telegram",
+            "url": "https://raw.githubusercontent.com/Thennavan-Hex/installer_scripts/main/dnf/telegram.sh"
+        },
+        "2": {
+            "name": "docker",
+            "url": "https://raw.githubusercontent.com/Thennavan-Hex/installer_scripts/main/dnf/docker.sh"
+        },
+        "3": {
+            "name": "docker-compose",
+            "url": "https://raw.githubusercontent.com/Thennavan-Hex/installer_scripts/main/dnf/docker_compose.sh"
+        },
+        "4": {
+            "name": "update",
+            "url": "https://raw.githubusercontent.com/Thennavan-Hex/installer_scripts/main/dnf/update.sh"
+        }
+    }
+}
